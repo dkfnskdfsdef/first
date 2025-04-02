@@ -54,3 +54,6 @@ gitconfig에 등록된 이름, 이메일이 동일해야 한다.
 10. `git status` 위 9번 업로드 됐는지 확인(초록색 변경)
 11. `git commit -m '메세지'` 수정 파일에 대한 기록 메세지 작성
 12. `git push origin main` 깃허브 저장소에 업로드
+## HTML & meta
+* HTML : 웹 페이지에서 다른 페이지로 이동할 수 있도록 웹 브라우저에게 명령을 내리는 구조적 문서를 만드는 언어
+* meta : 브라우저에는 보이지않는 태그. (예) <meta charset=”utf-8”><meta name=”description” content=””><meta name=”keywords” content=”관련된 키워드”>
